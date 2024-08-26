@@ -1,0 +1,21 @@
+/* Table Style */
+table {
+  border-collapse: collapse;
+  width: 30%;
+}
+tr,
+th,
+td {
+  border: 1px solid rgb(206,198,198);
+  padding: 15px;
+  text-align: left;
+}
+img {
+  width: 30%;
+}
+
+sticky {
+  border: 20;
+  position:0 ;
+}
+
