@@ -16,4 +16,4 @@
 
 
 
-[DEMO] (https://Labeebah/Labeebah-Ajeyo-App)
+[DEMO] (https://github.com/Labeebah1203/labeebah-ajeyo-app.git)
